@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Camisa Manga Larga",
+    "description": "Azul",
+    "price": 199,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf123",
+    "stock": 100,
+    "category": "Torso"
+  },
+  {
+    "id": 2,
+    "title": "Chamarra",
+    "description": "Negro",
+    "price": 199,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf321",
+    "stock": 100,
+    "category": "Torso"
+  },
+  {
+    "id": 3,
+    "title": "Guantes",
+    "description": "Multicolor",
+    "price": 199,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf654",
+    "stock": 100,
+    "category": "Manos"
+  },
+  {
+    "id": 4,
+    "title": "Bufanda",
+    "description": "Rojo",
+    "price": 99,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf987",
+    "stock": 100,
+    "category": "Accesorios"
+  },
+  {
+    "id": 5,
+    "title": "Sombrero",
+    "description": "Negro",
+    "price": 149,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf765",
+    "stock": 100,
+    "category": "Cabeza"
+  },
+  {
+    "id": 6,
+    "title": "Calcetines",
+    "description": "Blanco",
+    "price": 49,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf234",
+    "stock": 100,
+    "category": "Pies"
+  },
+  {
+    "id": 7,
+    "title": "Pantalones",
+    "description": "Azul Oscuro",
+    "price": 299,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf543",
+    "stock": 100,
+    "category": "Piernas"
+  },
+  {
+    "id": 8,
+    "title": "Suéter",
+    "description": "Gris",
+    "price": 249,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf876",
+    "stock": 100,
+    "category": "Torso"
+  },
+  {
+    "id": 9,
+    "title": "Gorra",
+    "description": "Azul Marino",
+    "price": 79,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf345",
+    "stock": 100,
+    "category": "Cabeza"
+  },
+  {
+    "id": 10,
+    "title": "Botas",
+    "description": "Marrón",
+    "price": 399,
+    "thumbnail": "www.imagenderopa.com",
+    "code": "adf654",
+    "stock": 100,
+    "category": "Pies"
+  }
+]
